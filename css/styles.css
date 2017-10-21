@@ -48,15 +48,16 @@
    align-items: center;
  }
  .button{
-   font-style: italic;
+   font-style:oblique;
    color: #ff3300;
    font-style: oblique;
+
  }
  .row4{
 background: url('../ip2/assets/backgrounds/foodsBg.jpg') no-repeat;
 border: 2px;
-padding: 10px;
-margin: 20px;
+padding: 50px;
+margin: 10px;
  }
 
 .row2{
@@ -73,4 +74,28 @@ margin: 20px;
 
 .chakula{
   color:#ff3300;
+  font-family:Times;
+  font-size: 50%;
+}
+.heading{
+  color:#ff3300;
+  font-style:normal;
+  font-family: Times;
+
+}
+.Eagle{
+   border: 2px solid red;
+   padding: 20px;
+   margin: 60px;
+   border-left:white;
+  border-right: 2px solid grey;
+  border-top:white;
+  border-bottom:white;
+
+}
+.row5{
+  border-left: 2px solid red;
+ border-right: 4px solid blue;
+ border-top: 6px solid orange;
+ border-bottom: 8px solid black;
 }
