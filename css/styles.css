@@ -52,3 +52,25 @@
    color: #ff3300;
    font-style: oblique;
  }
+ .row4{
+background: url('../ip2/assets/backgrounds/foodsBg.jpg') no-repeat;
+border: 2px;
+padding: 10px;
+margin: 20px;
+ }
+
+.row2{
+  border: 2px;
+ padding: 6px;
+ margin: 20px;
+}
+
+.row3{
+  border: 2px;
+ padding: 6px;
+ margin: 20px;
+}
+
+.chakula{
+  color:#ff3300;
+}
