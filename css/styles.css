@@ -48,7 +48,7 @@
    align-items: center;
  }
  .button{
-   font-style:oblique;
+   font-style:normal;
    color: #ff3300;
    font-style: oblique;
 
@@ -84,18 +84,47 @@ margin: 10px;
 
 }
 .Eagle{
-   border: 2px solid red;
+   border: 2px;
    padding: 20px;
    margin: 60px;
-   border-left:white;
-  border-right: 2px solid grey;
-  border-top:white;
-  border-bottom:white;
+
+  border-right: 4px solid grey;
+
 
 }
-.row5{
-  border-left: 2px solid red;
- border-right: 4px solid blue;
- border-top: 6px solid orange;
- border-bottom: 8px solid black;
+.heading2{
+  color:#ff3300;
+  font-style:normal;
+  font-family: Times;
+}
+.Eagle2{
+  border: 2px;
+  padding: 20px;
+  margin: 60px;
+}
+.Email{
+  text-align: center;
+  color:black;
+  font-family: times;
+}
+.col-md-12{
+  background: url('../ip2/assets/backgrounds/subscribe.jpg') no-repeat;
+  padding: 200px;
+  margin:0px;
+}
+
+.email{
+  font-family: times;
+  text-align: center;
+  color: white;
+}
+.col-md-10{
+  background-color: #ff3300;;
+  text-align: center;
+  float: right;
+  font-family: times;
+  color: white;
+  padding: 100px;
+  margin:100px;
+  width:500px;
 }
