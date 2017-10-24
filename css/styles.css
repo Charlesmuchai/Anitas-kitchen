@@ -107,10 +107,7 @@ margin: 10px;
   color:black;
   font-family: times;
 }
-.col-md-12{
-  background: url('../ip2/assets/backgrounds/subscribe.jpg') no-repeat;
-  padding: 200px;
-  margin:0px;
+
 }
 
 .email{
@@ -118,16 +115,37 @@ margin: 10px;
   text-align: center;
   color: white;
 }
-.col-md-10{
-  background-color: #ff3300;;
+.matumbo{
+  background-color: #ff3300;
   text-align: center;
-  float: right;
+  float:justify;
   font-family: times;
   color: white;
-  padding: 100px;
-  margin:100px;
-  width:500px;
+  padding:20px;
+
+  width:1500px;
+  height:500px;
 }
 .img{
-  border: 2px solid red;
+  border: 2px solid grey;
+  border-width:thick;
+  border-radius: 10px;
+}
+
+
+ .gold{
+   background: url('../ip2/assets/backgrounds/subscribe.jpg') no-repeat;
+   text-align: center;
+   color:orangered;
+   font-size:250%;
+   font-family:times;
+   margin:0px;
+
+}
+.general{
+    background-color:orangered;
+    text-align: center;
+    font-family:times;
+    color: aliceblue
+    
 }
